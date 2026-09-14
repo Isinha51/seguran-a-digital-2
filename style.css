@@ -2,10 +2,10 @@
 
 :root{
     --branco: rgb(238, 211, 255);
-    --cor-de-fundo: #9582e6;
-    --fundo-senha: #e388ff;
-    --fundo-texto: #e785ff;
-    --borda: #b97cff;
+    --cor-de-fundo: #a81e1e;
+    --fundo-senha: #3d14d1;
+    --fundo-texto: #1a9fc0;
+    --borda: #db15c1;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -17,7 +17,7 @@
 body {
     margin: 0;
     color: var(--branco);
-    background-image: url("https://www.google.com/imgres?q=imagem%20morango&imgurl=https%3A%2F%2Fs2-oglobo.glbimg.com%2FrW3k1JTbM2KCkM8U3qs0jwK8ukg%3D%2F0x0%3A4000x6000%2F888x0%2Fsmart%2Ffilters%3Astrip_icc()%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2023%2F1%2FW%2FezgSKbRVqpKIAf9ZaVbw%2Fstrawberries-cut-half-whole-berries-ripe-berries-top-view-background-ripe-strawberries-delicious-natural-dessert.jpg&imgrefurl=https%3A%2F%2Foglobo.globo.com%2Fsaude%2Fnoticia%2F2023%2F11%2F17%2Fmorango-novo-estudo-explica-por-que-a-fruta-faz-bem-para-a-memoria-e-reduz-risco-de-demencia-entenda.ghtml&docid=dFba9jODmMoE6M&tbnid=SSM9PfV6NNS0sM&vet=12ahUKEwjB_Kz18O2WAxX-FLkGHacpOFIQnPAOegQIOhAA..i&w=888&h=1332&hcb=2&ved=2ahUKEwjB_Kz18O2WAxX-FLkGHacpOFIQnPAOegQIOhAA");
+    background-image: url ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT4X_s2-PW2CKE7p5dZ4zs21AFZG8ol-Bj-4R5bwgNQMklxtOyWuhvNJ0&s=10");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
